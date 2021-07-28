@@ -1,0 +1,17 @@
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.exe
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.deps.json
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.runtimeconfig.json
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.runtimeconfig.dev.json
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.dll
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.pdb
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\Azure.AI.TextAnalytics.dll
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.csproj.AssemblyReference.cache
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.AssemblyInfoInputs.cache
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.AssemblyInfo.cs
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.csproj.CopyComplete
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.dll
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.pdb
+E:\visual-studiop\C#July2021\TextAnalytics\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.genruntimeconfig.cache

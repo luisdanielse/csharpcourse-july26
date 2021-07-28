@@ -1,0 +1,7 @@
+E:\visual-studiop\C#July2021\Files\Files2\Files2\obj\Debug\Files2.csproj.AssemblyReference.cache
+E:\visual-studiop\C#July2021\Files\Files2\Files2\obj\Debug\Files2.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\Files\Files2\Files2\bin\Debug\Files2.exe.config
+E:\visual-studiop\C#July2021\Files\Files2\Files2\bin\Debug\Files2.exe
+E:\visual-studiop\C#July2021\Files\Files2\Files2\bin\Debug\Files2.pdb
+E:\visual-studiop\C#July2021\Files\Files2\Files2\obj\Debug\Files2.exe
+E:\visual-studiop\C#July2021\Files\Files2\Files2\obj\Debug\Files2.pdb

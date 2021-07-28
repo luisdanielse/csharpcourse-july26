@@ -1,0 +1,13 @@
+E:\visual-studiop\C#July2021\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.exe
+E:\visual-studiop\C#July2021\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.deps.json
+E:\visual-studiop\C#July2021\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.json
+E:\visual-studiop\C#July2021\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.dev.json
+E:\visual-studiop\C#July2021\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.dll
+E:\visual-studiop\C#July2021\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.pdb
+E:\visual-studiop\C#July2021\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfoInputs.cache
+E:\visual-studiop\C#July2021\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfo.cs
+E:\visual-studiop\C#July2021\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.dll
+E:\visual-studiop\C#July2021\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.pdb
+E:\visual-studiop\C#July2021\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.genruntimeconfig.cache
+E:\visual-studiop\C#July2021\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalDB-WPF", "ExternalDB-WPF\ExternalDB-WPF.csproj", "{FD54AC9B-7CCB-435A-ABAD-2C3B3F0DE24F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD54AC9B-7CCB-435A-ABAD-2C3B3F0DE24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD54AC9B-7CCB-435A-ABAD-2C3B3F0DE24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD54AC9B-7CCB-435A-ABAD-2C3B3F0DE24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD54AC9B-7CCB-435A-ABAD-2C3B3F0DE24F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C09FE4-9C04-4321-9056-5CCDB4B600A7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+E:\visual-studiop\C#July2021\ExternalDB-Console\ExternalDB-Console\ExternalDB-Console\bin\Debug\ExternalDB-Console.exe.config
+E:\visual-studiop\C#July2021\ExternalDB-Console\ExternalDB-Console\ExternalDB-Console\bin\Debug\ExternalDB-Console.exe
+E:\visual-studiop\C#July2021\ExternalDB-Console\ExternalDB-Console\ExternalDB-Console\bin\Debug\ExternalDB-Console.pdb
+E:\visual-studiop\C#July2021\ExternalDB-Console\ExternalDB-Console\ExternalDB-Console\obj\Debug\ExternalDB-Console.csproj.AssemblyReference.cache
+E:\visual-studiop\C#July2021\ExternalDB-Console\ExternalDB-Console\ExternalDB-Console\obj\Debug\ExternalDB-Console.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\ExternalDB-Console\ExternalDB-Console\ExternalDB-Console\obj\Debug\ExternalDB-Console.exe
+E:\visual-studiop\C#July2021\ExternalDB-Console\ExternalDB-Console\ExternalDB-Console\obj\Debug\ExternalDB-Console.pdb

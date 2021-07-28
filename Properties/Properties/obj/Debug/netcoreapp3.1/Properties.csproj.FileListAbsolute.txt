@@ -1,0 +1,12 @@
+E:\visual-studiop\C#July2021\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+E:\visual-studiop\C#July2021\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+E:\visual-studiop\C#July2021\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+E:\visual-studiop\C#July2021\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+E:\visual-studiop\C#July2021\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+E:\visual-studiop\C#July2021\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+E:\visual-studiop\C#July2021\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+E:\visual-studiop\C#July2021\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+E:\visual-studiop\C#July2021\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+E:\visual-studiop\C#July2021\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+E:\visual-studiop\C#July2021\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache
