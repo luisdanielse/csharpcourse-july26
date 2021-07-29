@@ -1,0 +1,7 @@
+E:\visual-studiop\C#July2021\AsyncTasks\AsyncTasks\AsyncTasks\bin\Debug\AsyncTasks.exe.config
+E:\visual-studiop\C#July2021\AsyncTasks\AsyncTasks\AsyncTasks\bin\Debug\AsyncTasks.exe
+E:\visual-studiop\C#July2021\AsyncTasks\AsyncTasks\AsyncTasks\bin\Debug\AsyncTasks.pdb
+E:\visual-studiop\C#July2021\AsyncTasks\AsyncTasks\AsyncTasks\obj\Debug\AsyncTasks.csproj.AssemblyReference.cache
+E:\visual-studiop\C#July2021\AsyncTasks\AsyncTasks\AsyncTasks\obj\Debug\AsyncTasks.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\AsyncTasks\AsyncTasks\AsyncTasks\obj\Debug\AsyncTasks.exe
+E:\visual-studiop\C#July2021\AsyncTasks\AsyncTasks\AsyncTasks\obj\Debug\AsyncTasks.pdb
