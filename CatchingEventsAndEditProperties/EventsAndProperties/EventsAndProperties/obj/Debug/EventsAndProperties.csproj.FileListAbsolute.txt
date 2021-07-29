@@ -1,0 +1,15 @@
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\bin\Debug\EventsAndProperties.exe.config
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\bin\Debug\EventsAndProperties.exe
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\bin\Debug\EventsAndProperties.pdb
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\EventsAndProperties.csproj.AssemblyReference.cache
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\MainWindow.g.cs
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\App.g.cs
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\EventsAndProperties_MarkupCompile.cache
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\EventsAndProperties_MarkupCompile.lref
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\MainWindow.baml
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\EventsAndProperties.g.resources
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\EventsAndProperties.Properties.Resources.resources
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\EventsAndProperties.csproj.GenerateResource.cache
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\EventsAndProperties.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\EventsAndProperties.exe
+E:\visual-studiop\C#July2021\CatchingEventsAndEditProperties\EventsAndProperties\EventsAndProperties\obj\Debug\EventsAndProperties.pdb

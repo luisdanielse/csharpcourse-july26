@@ -1,0 +1,7 @@
+E:\visual-studiop\C#July2021\LambdaExpression\Lambda\Lambda\bin\Debug\Lambda.exe.config
+E:\visual-studiop\C#July2021\LambdaExpression\Lambda\Lambda\bin\Debug\Lambda.exe
+E:\visual-studiop\C#July2021\LambdaExpression\Lambda\Lambda\bin\Debug\Lambda.pdb
+E:\visual-studiop\C#July2021\LambdaExpression\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+E:\visual-studiop\C#July2021\LambdaExpression\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\LambdaExpression\Lambda\Lambda\obj\Debug\Lambda.exe
+E:\visual-studiop\C#July2021\LambdaExpression\Lambda\Lambda\obj\Debug\Lambda.pdb
