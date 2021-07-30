@@ -1,0 +1,7 @@
+E:\visual-studiop\C#July2021\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe.config
+E:\visual-studiop\C#July2021\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe
+E:\visual-studiop\C#July2021\Encryption\Encryption\Encryption\bin\Debug\Encryption.pdb
+E:\visual-studiop\C#July2021\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.AssemblyReference.cache
+E:\visual-studiop\C#July2021\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\Encryption\Encryption\Encryption\obj\Debug\Encryption.exe
+E:\visual-studiop\C#July2021\Encryption\Encryption\Encryption\obj\Debug\Encryption.pdb
