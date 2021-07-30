@@ -1,0 +1,7 @@
+E:\visual-studiop\C#July2021\WordDocument\WordDocument\WordDocument\obj\Debug\WordDocument.csproj.AssemblyReference.cache
+E:\visual-studiop\C#July2021\WordDocument\WordDocument\WordDocument\obj\Debug\WordDocument.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\WordDocument\WordDocument\WordDocument\bin\Debug\WordDocument.exe.config
+E:\visual-studiop\C#July2021\WordDocument\WordDocument\WordDocument\bin\Debug\WordDocument.exe
+E:\visual-studiop\C#July2021\WordDocument\WordDocument\WordDocument\bin\Debug\WordDocument.pdb
+E:\visual-studiop\C#July2021\WordDocument\WordDocument\WordDocument\obj\Debug\WordDocument.exe
+E:\visual-studiop\C#July2021\WordDocument\WordDocument\WordDocument\obj\Debug\WordDocument.pdb
