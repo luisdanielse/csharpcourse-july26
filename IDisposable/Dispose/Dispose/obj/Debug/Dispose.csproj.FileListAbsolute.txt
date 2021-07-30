@@ -1,0 +1,7 @@
+E:\visual-studiop\C#July2021\IDisposable\Dispose\Dispose\bin\Debug\Dispose.exe.config
+E:\visual-studiop\C#July2021\IDisposable\Dispose\Dispose\bin\Debug\Dispose.exe
+E:\visual-studiop\C#July2021\IDisposable\Dispose\Dispose\bin\Debug\Dispose.pdb
+E:\visual-studiop\C#July2021\IDisposable\Dispose\Dispose\obj\Debug\Dispose.csproj.AssemblyReference.cache
+E:\visual-studiop\C#July2021\IDisposable\Dispose\Dispose\obj\Debug\Dispose.csproj.CoreCompileInputs.cache
+E:\visual-studiop\C#July2021\IDisposable\Dispose\Dispose\obj\Debug\Dispose.exe
+E:\visual-studiop\C#July2021\IDisposable\Dispose\Dispose\obj\Debug\Dispose.pdb
